@@ -1,2 +1,3 @@
-speed = 10;
-direction = obj_player.image_angle;
+// Direction is set by the spawning object after creation
+bullet_speed = 10;
+speed = bullet_speed;

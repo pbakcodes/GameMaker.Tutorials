@@ -1,5 +1,5 @@
 {
-  "$GMNotes":"",
+  "$GMNotes":"v1",
   "%Name":"LINK_TO_TUTORIALS",
   "name":"LINK_TO_TUTORIALS",
   "parent":{
