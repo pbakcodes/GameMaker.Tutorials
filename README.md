@@ -13,3 +13,5 @@ https://gamemaker.io/pl-PL/tutorials/easy-platformer
 
 ArcadeGame official Tutorial
 https://gamemaker.io/pl-PL/tutorials/make-arcade-space-shooter
+
+17.04.2026 edit - check ai capabilities
